@@ -1,4 +1,4 @@
-# ReadMe
+# Sales Model - Revenue Breakdown Model
 
 ### Understanding the Sale Model
 
