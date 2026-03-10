@@ -16,7 +16,7 @@ This is a classic **revenue breakdown model** (sometimes called the "Sales Multi
  
 The model is **multiplicative**, so changes compound: If you improve each factor by 10%, overall sales grow ~46% (1.1 × 1.1 × 1.1 × 1.1 = 1.464). If you double each, it could be 16× (2 × 2 × 2 × 2 = 16).
  
-#### Breaking Down the Picture's Examples$
+#### Breaking Down the Picture's Examples
 The image shows three scenarios, with highlights on the incremental and big-growth ones. Here's the math (using exact values for clarity):
  
 1. **Base Scenario** (starting point):
